@@ -2,7 +2,11 @@
 <html>
 <body>
 
+<<<<<<< HEAD
 <h1>My First Heading - revision APP02</h1>
+=======
+<h1>My First Heading - alternate</h1>
+>>>>>>> alternate
 
 <p>My first paragraph.</p>
 
